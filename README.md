@@ -6,6 +6,8 @@ Produces a GIF of your simulation to a desired length.
 
 ![The GIF output of Conway's Game of Life](./conway.gif)
 
+NOTE: a GUI is needed for development, so Linux on WSL is, at least currently, not an option.
+
 ## TODOs
 
 Languages:
